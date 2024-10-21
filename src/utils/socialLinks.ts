@@ -12,5 +12,9 @@ export const socialLinks: SocialLinksType[] = [
   {
     id: 3,
     href: 'https://x.com/abdulaziis07'
+  },
+  {
+    id: 4,
+    href: 'https://discord.gg/tcgSYfk5Vm'
   }
 ]

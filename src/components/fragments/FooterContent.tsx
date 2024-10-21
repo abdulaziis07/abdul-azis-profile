@@ -35,7 +35,7 @@ export const FooterContent = ({ author }: { author: string }) => {
           </a>
         </div>
         <div>
-          <a href="">
+          <a href={socialLinks[3].href} target="_blank">
             <Button variant={"ghost"}>
               <DiscordLogoIcon />
             </Button>
