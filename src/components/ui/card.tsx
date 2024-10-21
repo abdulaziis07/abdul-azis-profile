@@ -63,7 +63,7 @@ const CardContent = React.forwardRef<
   <div
     ref={ref}
     className={cn(
-      "flex flex-col justify-center items-centerbp-4 pt-0",
+      "flex flex-col justify-center items-center p-4 pt-0",
       className
     )}
     {...props}
